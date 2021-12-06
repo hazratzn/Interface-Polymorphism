@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.exe
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.deps.json
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.dll
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.pdb
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.dll
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.pdb
+C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\obj\Debug\netcoreapp3.1\Iearxiya.genruntimeconfig.cache

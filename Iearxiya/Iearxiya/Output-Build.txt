@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Iearxiya, Configuration: Debug Any CPU ------
+1>C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\Models\Haval.cs(9,31,9,36): warning CS0649: Field 'Haval.haval' is never assigned to, and will always have its default value null
+1>Iearxiya -> C:\Users\ASUS\Desktop\C#\Iearxiya\Iearxiya\bin\Debug\netcoreapp3.1\Iearxiya.dll
+1>Done building project "Iearxiya.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
